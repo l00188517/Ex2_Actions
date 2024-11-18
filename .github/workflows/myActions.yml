@@ -20,4 +20,4 @@ jobs:
         with:
           project: Ex2_Actions
           column: In Progress
-          repo-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repo-token: ${{ secrets.PERSONAL_ACCESS_TOKE }}
